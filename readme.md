@@ -5,7 +5,7 @@ It explains a bit about the software and what it's meant to do.
 Thanks for listening. 
 
 
-Hello. 
+
 
 
 This is a command line player. 
